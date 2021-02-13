@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm Rawora and I am a 20 year old student living in Germany. In my free time I like to do some coding, preferably for **Minecraft**. Which you will also find here in my profile. :)
+I'm Rawora and I am a 21 year old student living in Germany. In my free time I like to do some coding, preferably for **Minecraft**. Which you will also find here in my profile. :)
 
 
 You are welcome to contact me if you have any questions
