@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi 👋
 
-<!--
-**rawora-rg/rawora-rg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rawora and I am a 22 year old med student living in Germany. In my free time I like to do some coding, preferably for the game **Minecraft**. Which you will also find here in my profile. :)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You are welcome to contact me if you have any questions. I am also available for commissions.
+
+
+📫 How to reach me:
+ - My **Discord** is Rawora#6363
+ - **E-Mail**: contact[at]rawora.eu
+
+
+
+Cheers!
